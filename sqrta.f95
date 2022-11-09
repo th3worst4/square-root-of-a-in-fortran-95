@@ -51,6 +51,6 @@ program sqrta
     n = 9
     call squareroota(a,n,sqa)
     write(*,*)sqa
-	write(*,*)"presione qualquer tecla para fechar o programa"
+	write(*,*)"Feche o prompt de comando"
 	read(*,*)a
 end program
